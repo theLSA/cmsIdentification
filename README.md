@@ -30,7 +30,7 @@ python cmsIdentification.py http://www.xxx.com<br/>
 
 ### 结语<br/>
 改进方向：结合多种识别方式，形成统一的规则，就不用分那么多文件了。<br/>
-由于时间仓促，脚本可能有Bug或不完善的地方，欢迎大家反馈或issue。<br/>
+由于时间仓促，脚本可能有Bug或不完善的地方，欢迎大家反馈或issues。<br/>
 个人博客地址：http://www.lsablog.com
 
 ### 参考项目
