@@ -53,7 +53,7 @@ class cmsIdentificate(object):
         	rsphtml = ''
         	try:
 		
-            		rsp = requests.get(finalUrl,timeout=10)
+            		rsp = requests.get(finalUrl,headers=self.header,timeout=10)
             		if (rsp.status_code != 200):
                 		continue
 				#return
