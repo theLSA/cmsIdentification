@@ -10,7 +10,7 @@
 1.结合式：利用data.json的1400+指纹进行识别[关键字+md5]。<br/>
 2.御剑式：利用御剑指纹识别的指纹进行识别[关键字]<br/>
 3.主页式：利用fofa的规则对目标主页和返回头关键字进行识别[关键字]<br/>
-该模式利用了https://github.com/cuijianxiong/cmscan，感兴趣的读者可以访问该项目更新fofa规则，本人这里利用的还是老的规则<br/>
+该模式利用了[https://github.com/cuijianxiong/cmscan](https://github.com/cuijianxiong/cmscan)，感兴趣的读者可以访问该项目更新fofa规则，本人这里利用的还是老的规则<br/>
 4.快速式：利用收集的cms00.txt进行识别[md5]<br/>
 5.急速式：利用收集的cms1.txt进行识别[特有文件]<br/>
 
